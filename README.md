@@ -1,6 +1,4 @@
-
-
-![](WebView Screenshot.png)
+![WebView Screenshot](https://user-images.githubusercontent.com/53336715/81318697-42efae00-90ac-11ea-9605-381ce73df03e.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
